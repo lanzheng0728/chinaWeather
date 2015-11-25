@@ -1,0 +1,11 @@
+Package: chinaWeather
+Type: Package
+Title: test package for weather
+Version: 0.0.0.9000
+Author: Alan
+Description: test package for weather
+Maintainer: Joe Developer <Joe.Developer@some.domain.net>
+Depends: R (>= 3.2.2)
+License: GPL-2
+LazyData: true
+Data: 2015-11-25
